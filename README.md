@@ -10,7 +10,7 @@ List of resources and tools for frontend web developers.
 
 - [Font Subsetter](https://transfonter.org/)
 
-- [Lista de caracteres Unicode](https://www.unicode.org/charts/)
+- [List of Unicode characters](https://www.unicode.org/charts/)
 
 ## Font-size calculators:
 
