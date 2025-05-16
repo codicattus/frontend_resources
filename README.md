@@ -98,3 +98,11 @@ List of resources and tools for frontend web developers.
 ## 2D Physics
 
 - [Matter.js](https://brm.io/matter-js/)
+
+## Content Generators
+
+- [UI Faces](https://uifaces.co/)
+
+- [Lorem Ipsum](https://github.com/templeman/awesome-ipsum)
+
+- [Random Users](https://randomuser.me/)
