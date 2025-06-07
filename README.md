@@ -27,8 +27,14 @@ List of resources and tools for frontend web developers.
 ## CSS Unit Converters
 
 - [Pixel a REM](https://nekocalc.com/es/px-a-rem-conversor)
+  
 - [Unit Converter](https://cssunitconverter.vercel.app/)
+  
 - [CSS Converter](https://jam.dev/utilities/css-units-converter)
+
+## Timestamp Converter
+
+- [timestamp a fecha](https://www.cdmon.com/es/apps/conversor-timestamp)
 
 ## Colors:
 
@@ -110,3 +116,43 @@ List of resources and tools for frontend web developers.
 - [Lorem Ipsum](https://github.com/templeman/awesome-ipsum)
 
 - [Random Users](https://randomuser.me/)
+
+## API's para pruebas
+
+- [PokéApi](https://pokeapi.co/)
+
+- [Rick and Morty API](https://rickandmortyapi.com/)
+
+- [JSON Placeholder](https://jsonplaceholder.typicode.com/)
+
+- [Countries](https://restcountries.com/)
+
+- [Star Wars](https://www.swapi.tech/)
+
+- [Fake Store](https://fakestoreapi.com/)
+
+- [Fake Store - Platzi](https://fakeapi.platzi.com/)
+
+- [Fruits](https://www.fruityvice.com/)
+
+- [Exchange rates](https://frankfurter.dev/)
+
+- [Cocktails](https://www.thecocktaildb.com/)
+
+- [Recipes](https://www.themealdb.com/)
+
+## API's para pruebas con registro (Clave API)
+
+- [CoinGecko - Crypto](https://www.coingecko.com/es/api)
+
+- [Marvel](https://developer.marvel.com/)
+
+- [NASA](https://api.nasa.gov/)
+
+- [OpenWeather](https://openweathermap.org/api)
+
+- [News](https://newsapi.org/pricing)
+
+- [Unsplash](https://unsplash.com/developers)
+
+- [Movies](https://developer.themoviedb.org/)
